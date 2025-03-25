@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","sources":["webpack://example-sentry/./src/index.js"],"sourcesContent":["import { answer } from './answer';\nfunction render() {\n  document.getElementById('root').innerHTML = `the answer to the universe is ${answer}`;\n}\nrender();\n"],"names":["document"],"mappings":"qwBAEEA,SAAS,cAAc,CAAC,QAAQ,SAAS,CAAG,kC"}
